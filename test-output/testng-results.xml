@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8051" started-at="2020-09-09T13:48:51 IST" finished-at="2020-09-09T13:48:59 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8051" started-at="2020-09-09T13:48:51 IST" finished-at="2020-09-09T13:48:59 IST">
+      <class name="MavenProjectORGHRM.ORGHRM.BrowserLaunchTest">
+        <test-method status="PASS" signature="browserlaunch()[pri:0, instance:MavenProjectORGHRM.ORGHRM.BrowserLaunchTest@26aa12dd]" name="browserlaunch" duration-ms="7977" started-at="2020-09-09T13:48:51 IST" finished-at="2020-09-09T13:48:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserlaunch -->
+      </class> <!-- MavenProjectORGHRM.ORGHRM.BrowserLaunchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
